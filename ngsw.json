@@ -9,7 +9,7 @@
       "urls": [
         "https://kbalu99.github.io/minst-cnn/favicon.ico",
         "https://kbalu99.github.io/minst-cnn/index.html",
-        "https://kbalu99.github.io/minst-cnn/main.607cb19766ec01c90ba0.js",
+        "https://kbalu99.github.io/minst-cnn/main.464f8a6cf494a9b0da11.js",
         "https://kbalu99.github.io/minst-cnn/polyfills.2f4a59095805af02bd79.js",
         "https://kbalu99.github.io/minst-cnn/runtime.a66f828dca56eeb90e02.js",
         "https://kbalu99.github.io/minst-cnn/styles.34c57ab7888ec1573f9c.css"
@@ -21,11 +21,6 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://kbalu99.github.io/minst-cnn/assets/group1-shard1of1",
-        "https://kbalu99.github.io/minst-cnn/assets/group2-shard1of1",
-        "https://kbalu99.github.io/minst-cnn/assets/group3-shard1of2",
-        "https://kbalu99.github.io/minst-cnn/assets/group3-shard2of2",
-        "https://kbalu99.github.io/minst-cnn/assets/group4-shard1of1",
         "https://kbalu99.github.io/minst-cnn/assets/icons/icon-128x128.png",
         "https://kbalu99.github.io/minst-cnn/assets/icons/icon-144x144.png",
         "https://kbalu99.github.io/minst-cnn/assets/icons/icon-152x152.png",
@@ -33,19 +28,13 @@
         "https://kbalu99.github.io/minst-cnn/assets/icons/icon-384x384.png",
         "https://kbalu99.github.io/minst-cnn/assets/icons/icon-512x512.png",
         "https://kbalu99.github.io/minst-cnn/assets/icons/icon-72x72.png",
-        "https://kbalu99.github.io/minst-cnn/assets/icons/icon-96x96.png",
-        "https://kbalu99.github.io/minst-cnn/assets/model.json"
+        "https://kbalu99.github.io/minst-cnn/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://kbalu99.github.io/minst-cnn/assets/group1-shard1of1": "7672aa86b994b408d9d7b02b6bca26ef689617c9",
-    "https://kbalu99.github.io/minst-cnn/assets/group2-shard1of1": "ac15c1b67860b7e8a193d45dca0366d715f0ae32",
-    "https://kbalu99.github.io/minst-cnn/assets/group3-shard1of2": "edadc6cd12f54e58f2204be615df85da7e51b523",
-    "https://kbalu99.github.io/minst-cnn/assets/group3-shard2of2": "d14318edd4160f86e08af1db3ce777374a4c32bc",
-    "https://kbalu99.github.io/minst-cnn/assets/group4-shard1of1": "1b2afe3e4ae3dc8e71acb9793903382b44c0ea23",
     "https://kbalu99.github.io/minst-cnn/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "https://kbalu99.github.io/minst-cnn/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "https://kbalu99.github.io/minst-cnn/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -54,10 +43,9 @@
     "https://kbalu99.github.io/minst-cnn/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "https://kbalu99.github.io/minst-cnn/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://kbalu99.github.io/minst-cnn/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "https://kbalu99.github.io/minst-cnn/assets/model.json": "027642c3589143bc78017380ca7fe14a82be0654",
     "https://kbalu99.github.io/minst-cnn/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://kbalu99.github.io/minst-cnn/index.html": "f87768ce340cca5b10dfbedb497aa36a6e0a5387",
-    "https://kbalu99.github.io/minst-cnn/main.607cb19766ec01c90ba0.js": "18668e86e3b9898f0d311a645af7136b2088d41d",
+    "https://kbalu99.github.io/minst-cnn/index.html": "1d58e250a3efcdc72024804ff8687cdbe5e36dd7",
+    "https://kbalu99.github.io/minst-cnn/main.464f8a6cf494a9b0da11.js": "018ace032f6160871a589bb71a98820a7f3b5482",
     "https://kbalu99.github.io/minst-cnn/polyfills.2f4a59095805af02bd79.js": "8949bb1b1e302dda246f6ed9c2da703270360b1f",
     "https://kbalu99.github.io/minst-cnn/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "https://kbalu99.github.io/minst-cnn/styles.34c57ab7888ec1573f9c.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
